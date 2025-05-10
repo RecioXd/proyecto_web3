@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+img {
+    width: 60%;
+}
+
+.logo {
+    width: 40%;
+}
+
+nav {
+    background-image: url(/ALBACENTER/Portada/bg4.jpg);
+    font-size: 2rem;
+    justify-content: center;
+}
+
+.navegador {
+    margin-left: 50px;
+    text-decoration: none;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+.letra1 {
+    font-family: "Abhaya Libre", serif;
+    font-weight: 700;
+    font-size: 5rem;
+}
+
+.contenedor1 {
+    background-color: rgba(167, 233, 245, 0.247);
+}
